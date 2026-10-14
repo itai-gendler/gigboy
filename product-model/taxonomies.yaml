@@ -1,0 +1,13 @@
+scenarioKinds:
+  - id: primary
+    name: Primary
+    description: An established successful route.
+  - id: alternative
+    name: Alternative
+    description: Another established successful route or result of the same ability.
+  - id: validation
+    name: Validation
+    description: A refused request, invalid input or unmet condition the Product reports.
+  - id: edge
+    name: Edge
+    description: A conflict, boundary or unattended outcome.
